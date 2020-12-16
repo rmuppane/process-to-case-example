@@ -47,7 +47,13 @@
         "ConnectTimeout" : new StringDataType(),
         "ReadTimeout" : new StringDataType(),
         "Username" : new StringDataType(),
-        "Password" : new StringDataType()
+        "Password" : new StringDataType(),
+        "ContentType" : new StringDataType(),
+        "AcceptCharset" : new StringDataType(),
+        "Headers" : new StringDataType(),
+        "AuthUrl" : new StringDataType(),
+        "AcceptHeader" : new StringDataType(),
+        "AuthType" : new StringDataType()
     ],
     "results" : [
         "Result" : new ObjectDataType(),
