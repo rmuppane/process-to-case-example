@@ -12,4 +12,4 @@ RESTWorkItemHandler supports the following set of input parameters to properly c
 ![project modules](images/io.png)
 
 
-Test this example by deploying both kJars. Start the process instance (/src/main/resources/com/myspace/process_to_case/process.bpmn}) and observe the no os process instances created and no of tasks available to claim. 
+Test this example by deploying both kJars. Start the [process](/src/main/resources/com/myspace/process_to_case/process.bpmn) instance and observe the no os process instances created and no of tasks available to claim. 
